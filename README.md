@@ -49,8 +49,8 @@
 ```
 
 ## Combining bag and located threat image:
-- They are comnbined using below expression :
+- They are comebined using below expression :
 ```
    output = 0.6*background_bag_image + 0.4*located_threat_image
 ```
-- 
+
