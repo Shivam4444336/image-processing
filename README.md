@@ -1,3 +1,11 @@
+# This repository showcases my image processing and problem solving skills in a heuristic way:
+- There two sets of images:- background and threat objects. Background images are the background x-ray images of baggage that gets generated after passing through a X-ray machine at 
+airport. Threat images are the x-ray images of threats that are prohibited at airport while travelling.
+- **The task was : cut(extract) the threat objects, scale it down, rotate with 45 degree and locate it 
+into the background images.**
+- **Threat objects should be transparent inside bag.**
+- **Threat should not go outside the boundary of the baggage.** 
+
 # Steps explained in sequence:
 
 ## 1. Process threat and bag image:
